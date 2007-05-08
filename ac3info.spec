@@ -1,6 +1,6 @@
 %define name ac3info
 %define version 0.1
-%define release %mkrel 1
+%define release %mkrel 2
 
 Summary: A tool to display ac3 properties
 Name: %{name}
@@ -8,7 +8,7 @@ Version: %{version}
 Release: %{release}
 Source0: %{name}-%{version}.tar.bz2
 License: GPL
-Group: File Tools 
+Group: File tools
 Url: http://konilope.linuxeries.org/ac3info/
 BuildRoot: %{_tmppath}/%{name}-%{version}-%{release}-buildroot
 
