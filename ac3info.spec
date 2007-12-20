@@ -10,6 +10,7 @@ Source0: %{name}-%{version}.tar.bz2
 License: GPL
 Group: File tools
 Url: http://konilope.linuxeries.org/ac3info/
+BuildRoot: %{_tmppath}/%{name}-%{version}-%{release}-buildroot
 
 %description
 This tool display some informations about some ac3 files
