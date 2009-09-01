@@ -1,6 +1,6 @@
 %define name ac3info
 %define version 0.1
-%define release %mkrel 2
+%define release %mkrel 3
 
 Summary: A tool to display ac3 properties
 Name: %{name}
