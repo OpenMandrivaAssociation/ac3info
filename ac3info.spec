@@ -1,7 +1,7 @@
 Summary: A tool to display ac3 properties
 Name: ac3info
 Version: 0.1
-Release: 6
+Release: 7
 Source0: %{name}-%{version}.tar.gz
 License: GPL
 Group: File tools
