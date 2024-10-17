@@ -7,7 +7,7 @@ Release: 7
 Source0: %{name}-%{version}.tar.gz
 License: GPL
 Group: File tools
-Url: http://konilope.linuxeries.org/ac3info/
+Url: https://konilope.linuxeries.org/ac3info/
 
 %description
 This tool display some informations about some ac3 files
