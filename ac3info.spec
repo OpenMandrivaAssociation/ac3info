@@ -9,6 +9,7 @@ License: GPL
 Group: File tools
 Url: https://konilope.linuxeries.org/ac3info/
 
+BuildRequires:	make
 %description
 This tool display some informations about some ac3 files
 
